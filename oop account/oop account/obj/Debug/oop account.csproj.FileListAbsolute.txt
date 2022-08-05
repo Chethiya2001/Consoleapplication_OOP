@@ -1,0 +1,9 @@
+E:\visual studio\oop account\oop account\bin\Debug\oop account.exe.config
+E:\visual studio\oop account\oop account\bin\Debug\oop account.exe
+E:\visual studio\oop account\oop account\bin\Debug\oop account.pdb
+E:\visual studio\oop account\oop account\obj\Debug\oop account.csprojResolveAssemblyReference.cache
+E:\visual studio\oop account\oop account\obj\Debug\oop account.exe
+E:\visual studio\oop account\oop account\obj\Debug\oop account.pdb
+E:\visual studio\console\oop account\oop account\bin\Debug\oop account.exe.config
+E:\visual studio\console\oop account\oop account\obj\Debug\oop account.exe
+E:\visual studio\console\oop account\oop account\obj\Debug\oop account.pdb
